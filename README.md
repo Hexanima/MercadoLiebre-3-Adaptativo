@@ -2,6 +2,10 @@
 
 Proyecto de sitio web para Digital House
 
+## Etapa actual
+
+En esta etapa hacemos que el sitio se adapte al tamaño de las pantallas, o mejor dicho, que se adapte a celular tablet y computadoras
+
 ## Progreso
 
 [1 - Maquetado](https://github.com/Hexanima/MercadoLiebre-1-Maquetado)
@@ -12,12 +16,14 @@ Proyecto de sitio web para Digital House
 
 ## Como usar
 
-Luego de descargarlo debes hacer los siguientes comandos desde la carpeta principal:
+Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal
 
 ```console
 npm install
-//Esto instalará las dependencias del proyecto
+```
+Esto instalará las dependencias del servidor
+Ahora solo queda iniciarlo con el siguiente comando
 
+```console
 node app.js
-// Esto iniciará el servidor en su respectivo puerto
 ```
