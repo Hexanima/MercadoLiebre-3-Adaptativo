@@ -1,10 +1,10 @@
 # Mercado Liebre
 
-Proyecto de sitio web para Digital House
+Proyecto de sitio web para Digital House.
 
 ## Etapa actual - Diseño Adaptativo
 
-En esta etapa hacemos que el sitio se adapte al tamaño de las pantallas, o mejor dicho, que se adapte a celular tablet y computadoras
+En esta etapa hacemos que el sitio se adapte al tamaño de las pantallas, o mejor dicho, que se adapte a celular tablet y computadoras.
 
 ## Progreso
 
@@ -16,13 +16,14 @@ En esta etapa hacemos que el sitio se adapte al tamaño de las pantallas, o mejo
 
 ## Como usar
 
-Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal
+Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal.
 
 ```console
 npm install
 ```
-Esto instalará las dependencias del servidor
-Ahora solo queda iniciarlo con el siguiente comando
+Esto instalará las dependencias del servidor.
+
+Ahora solo queda iniciarlo con el siguiente comando.
 
 ```console
 node app.js
