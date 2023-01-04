@@ -2,7 +2,7 @@
 
 Proyecto de sitio web para Digital House
 
-## Etapa actual
+## Etapa actual - Diseño Adaptativo
 
 En esta etapa hacemos que el sitio se adapte al tamaño de las pantallas, o mejor dicho, que se adapte a celular tablet y computadoras
 
